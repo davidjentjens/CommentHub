@@ -14,7 +14,6 @@
 - Open your browser to `http://localhost:8080/`.
 
 <br/>
-<br/>
 
 <h4>
   Preview:
