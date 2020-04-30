@@ -7,11 +7,11 @@
   Steps to run:
 </h4>
 
-- Install the latest version of yarn
-- Clone the project
-- Run `yarn` to install all dependencies
-- Run `yarn start` to run the project
-- Open your browser to `http://localhost:8080/`
+- Install the latest version of yarn.
+- Clone the project.
+- Run `yarn` to install all dependencies.
+- Run `yarn start` to run the project.
+- Open your browser to `http://localhost:8080/`.
 
 <br/>
 <br/>
